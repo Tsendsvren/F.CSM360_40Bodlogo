@@ -45,11 +45,11 @@ n!-ийн утгыг хэвлэнэ.
 25! = 25 × 24 × 23 × … × 1 ийм байдлаар үр дүн гарна.
 
 <p align="center">
-  <img src="image/Bodlogo1.1" alt="Bodlogo1.1" width="full"/>
+  <img src=".../image/Bodlogo1.1" alt="Bodlogo1.1" width="full"/>
 </p>
 
 <p align="center">
-  <img src="image/Bodlogo1.2" alt="Bodlogo1.2" width="full"/>
+  <img src=".../image/Bodlogo1.2" alt="Bodlogo1.2" width="full"/>
 </p>
 
 ---
