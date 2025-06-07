@@ -1,6 +1,6 @@
 ### Бодлого №1
 
-## Algorithms-Medium-Extra Long Factorials
+## Organizing Containers Of Balls 
 
 Та нарт n ширхэг сав байгаа бөгөөд сав бүрд тодорхой тооны бөмбөлгүүд байна. Бөмбөлгүүд нь m өөр өнгөтэй байх ба container[i][j] нь i-р саванд байгаа j өнгийн бөмбөлгийн тоог илэрхийлнэ.
 
