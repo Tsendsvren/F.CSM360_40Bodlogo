@@ -75,7 +75,7 @@ balls = [0+1=1, 2+1=3] → [1, 3]
 Эрэмбэлэгдсэн capacity ([2, 2]) болон balls ([1, 3]) ижил биш, тиймээс "Impossible".
 
 <p align="center">
-  <img src="image/Bodlogo2" alt="Bodlogo2" width="full"/>
+  <img src="../image/Bodlogo2.png" alt="Bodlogo2" width="100%"/>
 </p>
 
 ---
