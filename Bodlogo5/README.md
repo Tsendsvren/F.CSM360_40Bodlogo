@@ -1,6 +1,6 @@
 ### Бодлого №5
 
-## Ema's Supercomputer
+## Ema's Supercomputer /Төрөл: Algorithms, Түвшин: Medium/
 
 n x m хэмжээтэй тор өгөгдөнө. Тор бүрт G (ногоон) эсвэл B (улаан) тэмдэгт байрлана.
 

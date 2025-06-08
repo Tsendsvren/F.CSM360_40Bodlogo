@@ -1,6 +1,6 @@
 ### Бодлого №12
 
-## Insertion Sort Advanced Analysis
+## Insertion Sort Advanced Analysis /Төрөл: Algorithms, Түвшин: Advanced/
 
 Өгөгдсөн тоон дарааллыг өсөх эрэмбээр эрэмбэлэхэд шаардагдах "алхмын тоо"-г олно уу. Алхам гэдэг нь insertion sort алгоритмд элемент зөв байрлалд орохын тулд хийгдэх зүүн тийш шилжилтийн тоог хэлнэ.
 

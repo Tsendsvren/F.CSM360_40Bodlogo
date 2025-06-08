@@ -1,6 +1,6 @@
 ### Бодлого №9
 
-## The Bomberman Game
+## The Bomberman Game /Төрөл: Algorithms, Түвшин: Medium/
 
 Бомбчин (Bomberman) тоглоомын дүрслэлийг бүтээх хэрэгтэй. Тоглоомын дүрэм:
 

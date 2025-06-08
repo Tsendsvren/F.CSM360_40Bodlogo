@@ -1,6 +1,6 @@
 ### Бодлого №1
 
-## Algorithms-Medium-Extra Long Factorials
+## Algorithms-Medium-Extra Long Factorials /Төрөл: Algorithms, Түвшин: Medium/
 
 n бүхэл тооны факториал гэж n! гэж бичдэг бөгөөд дараах байдлаар тодорхойлогдоно:
 

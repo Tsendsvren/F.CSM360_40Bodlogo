@@ -1,6 +1,6 @@
 ### Бодлого №11
 
-## Determining DNA Health
+## Determining DNA Health /Төрөл: Algorithms, Түвшин: Hard/
 
 ДНК-ийн эрүүл мэндийг тооцоолох:
 
